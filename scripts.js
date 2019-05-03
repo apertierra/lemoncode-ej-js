@@ -90,7 +90,6 @@ console.log(isBookRead(books, "Cancion de hielo y fuego")); // false
 console.log(isBookRead(books, "Los Pilares de la Tierra")); // false
 
 // Slot Machine
-
 class SlothMachine {
     constructor() {
         this.numMonedas = 0;
